@@ -1,11 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "Zj6sbu4jtP0=",
+  "dgSpecHash": "1G5Ja4GnEAI=",
   "success": true,
   "projectFilePath": "D:\\Repos\\order-flow\\src\\OrderFlow.Api\\OrderFlow.Api.csproj",
   "expectedPackageFiles": [
+    "D:\\cleudice.santos\\.nuget\\packages\\mediatr\\13.0.0\\mediatr.13.0.0.nupkg.sha512",
+    "D:\\cleudice.santos\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "D:\\cleudice.santos\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.0-preview.7.25380.108\\microsoft.aspnetcore.openapi.10.0.0-preview.7.25380.108.nupkg.sha512",
-    "D:\\cleudice.santos\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+    "D:\\cleudice.santos\\.nuget\\packages\\microsoft.identitymodel.abstractions\\8.0.1\\microsoft.identitymodel.abstractions.8.0.1.nupkg.sha512",
+    "D:\\cleudice.santos\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\8.0.1\\microsoft.identitymodel.jsonwebtokens.8.0.1.nupkg.sha512",
+    "D:\\cleudice.santos\\.nuget\\packages\\microsoft.identitymodel.logging\\8.0.1\\microsoft.identitymodel.logging.8.0.1.nupkg.sha512",
+    "D:\\cleudice.santos\\.nuget\\packages\\microsoft.identitymodel.tokens\\8.0.1\\microsoft.identitymodel.tokens.8.0.1.nupkg.sha512",
+    "D:\\cleudice.santos\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512",
+    "D:\\cleudice.santos\\.nuget\\packages\\scalar.aspnetcore\\2.7.2\\scalar.aspnetcore.2.7.2.nupkg.sha512"
   ],
   "logs": []
 }

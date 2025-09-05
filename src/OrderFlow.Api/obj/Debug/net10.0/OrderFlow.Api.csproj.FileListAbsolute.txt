@@ -36,3 +36,11 @@ D:\Repos\order-flow\src\OrderFlow.Api\obj\Debug\net10.0\refint\OrderFlow.Api.dll
 D:\Repos\order-flow\src\OrderFlow.Api\obj\Debug\net10.0\OrderFlow.Api.pdb
 D:\Repos\order-flow\src\OrderFlow.Api\obj\Debug\net10.0\OrderFlow.Api.genruntimeconfig.cache
 D:\Repos\order-flow\src\OrderFlow.Api\obj\Debug\net10.0\ref\OrderFlow.Api.dll
+D:\Repos\order-flow\src\OrderFlow.Api\bin\Debug\net10.0\Scalar.AspNetCore.dll
+D:\Repos\order-flow\src\OrderFlow.Api\obj\Debug\net10.0\OrderFlow.Api.sourcelink.json
+D:\Repos\order-flow\src\OrderFlow.Api\bin\Debug\net10.0\MediatR.dll
+D:\Repos\order-flow\src\OrderFlow.Api\bin\Debug\net10.0\MediatR.Contracts.dll
+D:\Repos\order-flow\src\OrderFlow.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Repos\order-flow\src\OrderFlow.Api\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Repos\order-flow\src\OrderFlow.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+D:\Repos\order-flow\src\OrderFlow.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll

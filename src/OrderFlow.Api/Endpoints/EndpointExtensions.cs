@@ -9,8 +9,8 @@ public static class EndpointExtensions
         apiGroup.MapGet("/health", () => Results.Ok("API is healthy."))
             .WithTags("Health");
 
-        apiGroup.MapGroup("/products").WithTags("Products");
-        apiGroup.MapGroup("/customers").WithTags("Customers");
-        apiGroup.MapGroup("/orders").WithTags("Orders");
+        apiGroup.MapProductEndpoints();
+        apiGroup.MapCustomerEndpoints();
+        apiGroup.MapOrderEndpoints();
     }
 }
